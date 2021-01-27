@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Skills
 subtitle:
@@ -16,24 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
 
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+- icon: ":fountain_pen:"
+  icon_pack: "emoji"
+  name: "Business Writing"
+  description: "90%"  
+- icon: ":bar_chart:"
+  icon_pack: "emoji"
+  name: "Data Analysis (R)"
+  description: "70%"  
+- icon: ":globe_with_meridians:"
+  icon_pack: "emoji"
+  name: "Market Research"
+  description: "80%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
